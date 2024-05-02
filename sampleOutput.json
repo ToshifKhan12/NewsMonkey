@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Thousands of migrant children test NYC schools system - BBC",
+        "description": "The first day of class for new arrivals like Thiago came amid \"dystopian\" rhetoric from the mayor.",
+        "url": "https://www.bbc.com/news/world-us-canada-66748182",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70D1/production/_131018882_patriciaandthiago.jpg",
+        "publishedAt": "2023-09-08T01:52:53Z",
+        "content": "Media caption, Watch: An emotional first day of school for migrant students in New York City\r\nThe mayor of New York has warned that the city could be \"destroyed\" if it does not get more help to cope … [+6062 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Doc Louallen",
+        "title": "Toyota Century, the new high end hybrid SUV, has a $170,000 price tag - USA TODAY",
+        "description": "Toyota has officially unveiled its latest Century model, and orders are now being accepted for the luxury SUV with a $170,000 price tag.",
+        "url": "https://www.usatoday.com/story/money/cars/2023/09/07/toyota-century-suv-price-features-luxury-market/70790299007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/07/USAT/70790485007-microsoft-teamsimage-48.png?crop=1129,637,x80,y0&width=1129&height=637&format=pjpg&auto=webp",
+        "publishedAt": "2023-09-08T00:04:53Z",
+        "content": "Toyota Motor Corp unveiled its latest addition to the premium car market Wednesday with the Century SUV, a vehicle that aims to meet the demands of wealthy customers.\r\nThe new model is marketed with … [+2108 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": ", USA TODAY",
+        "title": "Preserved Roman swords dating back 1900 years found hidden deep in Dead Sea cave - USA TODAY",
+        "description": "Researchers in Israel found a cache of Roman swords hidden deep in a Dead Sea cave where the 1,900-year-old\nweapons were \"excellently preserved.\"",
+        "url": "https://www.usatoday.com/story/news/world/2023/09/07/roman-swords-found-in-dead-sea-cave/70788523007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/09/07/USAT/481d0880-c841-49cb-a590-55c23e56d095-four_swords.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+        "publishedAt": "2023-09-07T22:38:23Z",
+        "content": "A cache of \"excellently preserved\" Roman weapons tucked away in an isolated cave near the Dead Sea have been discovered by Israeli researchers.\r\nThe Israel Antiquity Authority announced the find on W… [+3764 chars]"
+      }
+    ]
+  }
